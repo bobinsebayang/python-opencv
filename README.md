@@ -1,2 +1,2 @@
 # python-opencv
-Belajar menggunakan opencv dengan python
+Implementasi menggunakan opencv dengan python untuk spectral analysis
